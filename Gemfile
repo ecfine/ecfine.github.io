@@ -9,6 +9,7 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jekyll-sitemap'
     gem 'jemoji'
+    gem 'kramdown-parser-gfm'
     gem 'unicode_utils'
     gem 'webrick'
 end
