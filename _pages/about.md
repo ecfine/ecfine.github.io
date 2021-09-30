@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Scripps Institution of Oceanography
-Woods Hole Oceanographic Institution.
+description: Split postdoctoral appointment between Scripps Institution of Oceanography and Woods Hole Oceanographic Institution.
 
 profile:
   align: right
