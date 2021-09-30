@@ -3,6 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: See also [Google Scholar](https://scholar.google.com/citations?user=U44EJ8QAAAAJ&hl=en)
+nav: true
 ---
 
 Middleton, L., E. C. Fine, J. A. MacKinnon, M. H. Alford, J. R. Taylor (2021). Estimating Dissipation Rates Associated with Double Diffusion, Geophys. Res. Lett., 48 e2021GL092779. https://doi.org/10.1029/2021GL092779
