@@ -43,7 +43,7 @@ Reviewer, NSF Arctic System Science, 2021<br>
 Reviewer, NSF Arctic Observing Network, 2020<br>
 Journal reviews for Journal of Physical Oceanography, Journal of Climate, Journal of Geophysics Research, Geophysical Research Letters, and Journal of Atmospheric and Oceanic Technology
 
-Postdoctoral representative for Academic Recruitment working group of WHOI's <a href="https://web.whoi.edu/cdi/">Committee for Diversity, Equity & Inclusion</a><br>
+WHOI <a href="https://web.whoi.edu/cdi/">Committee for Diversity, Equity & Inclusion</a> Academic Recruitment postdoc representative<br>
 Mentor for MIT-WHOI Joint Program students<br>
 WHOI <a href="https://www.whoi.edu/what-we-do/understand/departments-centers-labs/po/po-events/">PO Department Seminar</a> Organizer<br>
-WHOI <a href="https://urgeoscience.medium.com/unlearning-racism-in-geoscience-1f40aa32216e">Unlearning Racism in the Geosciences participant</a>
+WHOI <a href="https://urgeoscience.medium.com/unlearning-racism-in-geoscience-1f40aa32216e">Unlearning Racism in the Geosciences</a> participant
