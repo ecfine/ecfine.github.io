@@ -7,7 +7,7 @@ nav: true
 ---
 <big><b>2022</b></big>
 
-<b>Fine, E. C.</b>, S. T. Cole. Decadal observations of internal wave energy and shear in the western Arctic. <i>J. Geophys. Res. Oceans, accepted</i>.
+<b>Fine, E. C.</b> and S. T. Cole. Decadal observations of internal wave energy and shear in the western Arctic. <i>J. Geophys. Res. Oceans, accepted</i>.
 
 <b>Fine, E. C.</b>, J. A. MacKinnon, M. H. Alford, L. Middleton, J. Taylor, S. Cole, J. B. Mickett, N. Couto, A. le Boyer, T. Peacock. Microstructure observations of Pacific Summer Water in the western Arctic. <i>J. Phys. Oceanogr.,</i>, 52, 189-203. <a href="https://doi.org/10.1175/JPO-D-21-0074.1">10.1175/JPO-D-21-0074.1</a>
 <hr>
