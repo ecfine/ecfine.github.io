@@ -41,7 +41,7 @@ Teaching Assistant, Stanford University: Introductory Electricity and Magnetism,
 Review Panelist, NASA Physical Oceanography, 2020<br>
 Reviewer, NSF Arctic System Science, 2021<br>
 Reviewer, NSF Arctic Observing Network, 2020<br>
-Journal reviews for Journal of Physical Oceanography, Journal of Climate, Journal of Geophysics Research, Geophysical Research Letters, and Journal of Atmospheric and Oceanic Technology
+Journal reviews for Journal of Physical Oceanography, Journal of Climate, Journal of Geophysics Research, Geophysical Research Letters, Progress in Oceanography, and Journal of Atmospheric and Oceanic Technology
 
 WHOI <a href="https://web.whoi.edu/cdi/">Committee for Diversity, Equity & Inclusion</a> Academic Recruitment postdoc representative<br>
 Mentor for MIT-WHOI Joint Program students<br>
