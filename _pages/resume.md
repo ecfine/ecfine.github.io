@@ -32,6 +32,7 @@ NSF Graduate Research Fellowship, 2014
 
 <hr>
 <big><b>Teaching</b></big>
+
 Co-Instructor, SIO 30: The Oceans, 2022<br>
 Instructor of Record, SIO 90: Perspectives on Ocean Sciences, 2019<br>
 Teaching Assistant, University of Colorado, Boulder: Introductory Mechanics, 2012<br>
