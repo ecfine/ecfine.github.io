@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 The ocean plays a central role in regulating global climate: 90% of the earth's additional thermal energy due to global warming is stored in the ocean. My goal is to identify and quantify the processes that control heat storage and transport in the global ocean. I collect and analyze observations from seagoing research cruises, moorings, and autonomous profilers and use models to contextualize these observations.
 
-I live in San Diego, where I enjoy spending time outdoors with my dog <a href="http://effiefine.com/assets/img/nala.png">Nala</a>, playing piano, and attempting to keep plants alive.
+I live in San Diego, where I enjoy spending time outdoors with my puppy <a href="http://effiefine.com/assets/img/daisybee.png">Daisy Bee</a>, playing piano, and attempting to keep plants alive.
 <br>
 <br>
 <br>
