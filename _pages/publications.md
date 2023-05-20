@@ -6,6 +6,7 @@ description:
 nav: true
 ---
 <big><b>2023</b></big>
+
 Beer, E., I. Eisenman, T. J. W. Wagner, and <b>E. C. Fine</b> (2023). A possible hysteresis in the Arctic Ocean due to release of subsurface heat during sea ice retreat. <i?J. Phys. Oceanogr.</i>, 53, 1323–1335, <a href="https://doi.org/10.1175/JPO-D-22-0131.1.">10.1175/JPO-D-22-0131.1</a>.
 
 <b>Fine, E. C.</b>, J. L. McClean, D. P. Ivanova, A. P. Craig, A. J. Wallcraft, E. P. Chassignet, E. C. Hunke. Arctic ice-ocean interactions in an 8-to-2 kilometer resolution global model. <i>Ocean Modeling, accepted</i>.
@@ -13,6 +14,7 @@ Beer, E., I. Eisenman, T. J. W. Wagner, and <b>E. C. Fine</b> (2023). A possible
 R. Yee, R. Musgrave, <b>E. Fine</b>, J. Nash, L. St. Laurent, R. Pickart. Turbulent diffusivity profiles inferred from temperature microstructure at the southern edge of the Canada Basin. J, Geophys. Res. Oceans, <i>in review</i>.
 
 <big><b>2022</b></big>
+
 Boury, S., R. Supekar, <b>E.C. Fine</b>, R. Musgrave, J.B. Mickett, G. Voet, P. Odier, T. Peacock, J.A. MacKinnon, M.H. Alford (2022). Observations of Double Diffusive Staircase Edges in the Arctic Ocean. <i>J. Geophys. Res. Oceans</i>, 127, <a href="https://doi.org/10.1029/2022JC018906">e2022JC018906</a>.
 
 Waterhouse, A. F., T. Hennon, E. Kunze, J. A. MacKinnon, M. H. Alford, R. Pinkel, H. Simmons, C. B. Whalen, <b>E. C. Fine</b>, J. Kylmak, and J. M. Hummon (2022). Global observations of rotary-with-depth shear spectra. <i>J. Phys. Oceanogr.</i> 52, 3241–3258. <a href="https://doi.org/ 10.1175/JPO-D-22-0015.1">10.1175/JPO-D-22-0015.1</a>.
