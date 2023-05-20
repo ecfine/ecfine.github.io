@@ -14,6 +14,7 @@ MS in Physics, University of Colorado, Boulder, 2014 <br>
 BS in Physics, Minor in Philosophy, Stanford University, 2011 <br>
 <hr>
 <big><b>Appointments</b></big>
+
 Postdoctoral Scholar, SIO, Feb 2023-present<br>
 Postdoctoral Investigator, WHOI, Sept 2022-Feb 2023<br>
 Lecturer, SIO, Sept 2022-Dec 2022 (0.25 time appt)<br>
@@ -24,7 +25,8 @@ Summer Research Assistant, SIO, 2012, 2013 & 2014<br>
 
 <hr>
 <big><b>Awards/Grants</b></big>
-NSF EAGER Grant, 2023-2025
+
+NSF EAGER Grant, 2023-2025<br>
 Weston Howland Jr. Postdoctoral Scholar Appointment, 2019 <br>
 NSF Graduate Research Fellowship, 2014
 
